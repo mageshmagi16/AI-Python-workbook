@@ -1,6 +1,6 @@
-# AI-Python-for-Beginners
+# AI-Python
 
-# AI Python Course Accomplishments
+# AI Python Course 
 
 ## Introduction
 This repository showcases the topics and projects completed during my AI Python course. The course provided a comprehensive understanding of Python programming with a focus on artificial intelligence and automation. Below is an overview of the key concepts and skills learned.
